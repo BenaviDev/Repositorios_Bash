@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>OSINT Scraper | Herramienta de Recolección de Información <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+  <h1>OSINT-HUNTER | Herramienta de Recolección de Información <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
   <h3>🕵️‍♂️ Recolecta información de fuentes públicas de manera automatizada 🕵️‍♂️</h3>
   
   <div>
@@ -17,11 +17,10 @@
 
 ## 📜 Descripción
 
-**OSINT Scraper** es una herramienta desarrollada en **Python y Bash** para la extracción automatizada de información desde diversas fuentes públicas.
+**OSINT-HUNTER** es una herramienta desarrollada en **Bash** para la extracción automatizada de información desde diversas fuentes públicas.
 
 ✅ Extrae información de dominios, redes sociales y registros públicos.
-✅ Utiliza APIs y técnicas avanzadas de web scraping.
-✅ Fácil de usar y expandir con módulos adicionales.
+✅ Utiliza Técnicas avanzadas de web scraping.
 ✅ Diseñado para profesionales de ciberseguridad, investigadores y periodistas.
 
 ---
@@ -30,11 +29,9 @@
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/TU_USUARIO/OSINT-Scraper.git
-cd OSINT-Scraper
+git clone https://github.com/BenaviDev/Repositorios_Bash.git
+cd Repositorios_Bash
 
-# Instalar dependencias
-pip install -r requirements.txt
 ```
 
 ---
