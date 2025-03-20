@@ -42,34 +42,17 @@ cd Repositorios_Bash
 python osint_scraper.py -d ejemplo.com
 ```
 
-Parámetros disponibles:
-
-| Opción | Descripción |
-|--------|------------|
-| `-d, --domain` | Dominio a analizar |
-| `-s, --social` | Buscar en redes sociales |
-| `-e, --emails` | Extraer correos electrónicos |
-| `-p, --phone` | Buscar números de teléfono |
-| `-a, --all` | Ejecutar todas las opciones |
-
 Ejemplo de ejecución:
 ```bash
-python osint_scraper.py -d ejemplo.com -e -s
+./osintv2.0 -d ejemplo.com 
 ```
-
----
-
-## 📂 Repositorio
-
-🔗 [OSINT Scraper](https://github.com/TU_USUARIO/OSINT-Scraper)
 
 ---
 
 ## 🔥 Autor y Contacto
 
-👤 **Valentina**  
-📧 Contacto: [Correo](mailto:tucorreo@gmail.com)  
-🌐 GitHub: [TuGitHub](https://github.com/TU_USUARIO)  
+👤 **Santiago Benavidez Ramirez 2025**  
+
 📺 TikTok: [HackeandoPatos](https://www.tiktok.com/@hackeadopatos)  
 
 **Si te gustó el proyecto, dale una estrella ⭐ en GitHub!** 🚀
