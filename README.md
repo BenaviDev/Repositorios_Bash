@@ -3,7 +3,6 @@
   <h3>🕵️‍♂️ Recolecta información de fuentes públicas de manera automatizada 🕵️‍♂️</h3>
   
   <div>
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
     <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
     <img src="https://img.shields.io/badge/OSINT-FF0000?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OSINT"/>
